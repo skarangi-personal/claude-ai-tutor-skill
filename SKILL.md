@@ -1,6 +1,7 @@
 ---
-name: ai-tutor
-description: Use when user asks to explain, break down, or help understand technical concepts (AI, ML, or other technical topics). Makes complex ideas accessible through plain English and narrative structure.
+name: AI Tutor
+description: This skill should be used when the user asks to "explain", "break down", "help me understand", "teach me about", or requests clarification of technical concepts (AI, ML, software development, or other technical topics). Transforms complex ideas into clear, accessible explanations using narrative storytelling frameworks.
+version: 0.1.0
 ---
 
 # AI Tutor Skill
