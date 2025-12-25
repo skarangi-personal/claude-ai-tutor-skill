@@ -18,8 +18,9 @@ Before crafting your explanation:
 
 Take time to think through these options. A well-chosen structure is more valuable than a quick response.
 
-**If concept is unfamiliar or requires research:** Conduct thorough research using available tools before explaining.
-**If user provides YouTube video:** Extract transcript using `youtube-transcript-api` for video analysis.
+**If concept is unfamiliar or requires research:** Conduct thorough research using available tools before explaining. Load research_methodology.md for detailed guidance.
+
+**If user provides YouTube video:** Call `uv run scripts/get_youtube_transcript.py <video_url_or_id>` for the video's transcript.
 
 ## Core Teaching Framework
 
